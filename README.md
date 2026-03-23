@@ -25,6 +25,9 @@ This program uses multithreaded requests to download Past Papers for As and A, I
 - MacOSX
 - Linux
 
+### Libraries:
+- The library "requests" is required for this application to function; in order to install it, enter the command `pip install requests` in the terminal/shell/cmd.
+
 ------------------------------------------------------------------------
 
 ## How to Install
