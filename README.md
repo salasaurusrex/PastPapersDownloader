@@ -25,6 +25,16 @@ This program uses multithreaded requests to download Past Papers for As and A, I
 - MacOSX
 - Linux
 
+### Dependencies
+These are libraries required by the application to functon properly. The dependencies are listed in requirements.txt
+The dependencies include requests, beautifulsoup4, and lxml. In order to download these libraries to ensure the functioning of the application, open the terminal/shell/cmd and enter this command:
+`pip install -r requirements.txt` 
+Alternatively, you can individually download each required library by entering these commands one-by-one in the terminal/shell/cmd:
+`pip install requests`
+`pip install beautifulsoup4`
+`pip install lxml`
+This method works if the requirements.txt file is missing. 
+
 ------------------------------------------------------------------------
 
 ## How to Install
